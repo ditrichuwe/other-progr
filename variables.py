@@ -1,0 +1,6 @@
+MyFavouriteCity=input('Type in your city')
+print(MyFavouriteCity+' is a very beatiful city')
+birthyear=int(input('In which year did you born?'))
+currentyear=int(input('What year is now?'))
+age=(currentyear-birthyear)
+print(age)
